@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - :zap: Fun fact: ...
 -->
 
-<img align="right" width="300" height="300" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" width="400" height="300" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 # Welcome to my Mind
 
