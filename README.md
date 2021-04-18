@@ -3,7 +3,7 @@
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-victorliradev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gabrieldearq2@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-gabrieldearq2-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gabrieldearq2@gmail.com)
 
 <!-- TODO: Add last video link -->
 
