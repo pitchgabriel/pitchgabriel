@@ -9,7 +9,7 @@
 
 - I'm focused on Front-End Development
 - 📫 How to reach me: gabrieldearq2@gmail.com
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ My main project: https://bianquinha.com.
 
 #### Technologies
 
